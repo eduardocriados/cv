@@ -1,9 +1,9 @@
 > ## EDUARDO CRIADO DA SILVA  
 > Bauru-SP  
 (11)994702000  
-[![(11)994702000](https://img.shields.io)](https://wa.me/5511994702000)  
 eduardo.criado@gmail.com  
-linkedin.com/in/eduardo-criado-da-silva
+linkedin.com/in/eduardo-criado-da-silva  
+github.com/eduardocriados/cv
 
 > ## RESUMO PROFISSIONAL  
 > Profissional com 20 anos de experiencia na área de Tecnologia da Informação, com foco em Analise e Desenvolvimento de Sistemas. Especialista em projetos de Alta Plataforma Mainframe na área Financeira e Varejo. Busco aplicar meus conhecimentos em TI para contribuir com os objetivos da Empresa
