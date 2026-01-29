@@ -1,6 +1,7 @@
 > ## EDUARDO CRIADO DA SILVA  
 > Bauru-SP  
 (11)994702000  
+[![(11)994702000](https://img.shields.io)](https://wa.me/5511994702000)  
 eduardo.criado@gmail.com  
 linkedin.com/in/eduardo-criado-da-silva
 
